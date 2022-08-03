@@ -1,0 +1,27 @@
+/**********************Tag Selector******************/
+h1{
+    color:red;
+    font-size:100px;
+}
+
+img:hover{
+    background-color:gold;
+}
+
+/**********************Class Selector******************/
+.Mango{
+    background-color:green;
+}
+.Apple{
+    background-color:pink;
+}
+.circular{
+    border-radius:50%;
+}
+/**********************ID Selector******************/
+#heading{    /*we cant give multiple id as classes*/
+    color:blue;
+}
+#big{
+    font-size:1000px;
+}
